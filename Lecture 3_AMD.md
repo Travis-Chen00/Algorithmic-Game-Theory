@@ -2,7 +2,7 @@
 ## Auction
 Any protocol that allows agents to indicate their interest in one or more resources, and uses these indications of interest to 
 determine both the allocation of resources and a set of payments by the agents is an auction.
-1. **Single-item auction** &nbsp; **_quasilinear utility model_** <br>
+1. **Single-item auction** &nbsp;--> &nbsp;**_quasilinear utility model_** <br>
     + Sells **an** item -- antique book.<br>
     + **n** bidders.<br>
     + **$\theta$** i: Each bidder i has a private valuation(**willing to pay**)<br>
