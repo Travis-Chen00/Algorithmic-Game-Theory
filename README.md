@@ -1,3 +1,3 @@
 # Algorithmic Game Theory
-COMP6207 in University of Southampton<br>
-Author: Boyu Chen
+COMP6207 in <b>University of Southampton</b><br>
+<b>Author</b>: Boyu Chen
