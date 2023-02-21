@@ -26,8 +26,9 @@ bids placed by the **_other_** bidders
 2. The __winner’s__ utility is: winner’s value - loser’s bid
 
 ## Bayesian Game
-(N, A, $\theta$, p, u)
-1. $\theta$: Type space
-2. p: common-prior probability distribution 
-3. u: Utility
+(N, O, $\theta$, p, u)
+1. O: sets of __outcomes__
+2. $\theta$: Type space
+3. p: common-prior probability distribution 
+4. u: Utility
 
